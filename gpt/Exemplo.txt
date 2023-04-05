@@ -1,0 +1,8 @@
+Variáveis, tipos de dados e operadores em Python.
+Estruturas de controle de fluxo, como if/else, while e for.
+Funções em Python, incluindo parâmetros, valores de retorno e escopo de variáveis.
+Listas, tuplas e dicionários, e como manipulá-los em Python.
+Leitura e escrita de arquivos em Python.
+Módulos e pacotes em Python, e como importar e usar bibliotecas externas.
+Manipulação de strings em Python.
+Tratamento de exceções em Python.
